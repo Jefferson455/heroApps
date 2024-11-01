@@ -24,14 +24,6 @@
       "characters": "Kal-El"
     },
     {
-      "id": "dc-flash",
-      "superhero": "Flash",
-      "publisher": "DC Comics",
-      "alter_ego": "Jay Garrick",
-      "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
-    },
-    {
       "id": "dc-green",
       "superhero": "Green Lantern",
       "publisher": "DC Comics",
@@ -166,24 +158,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "djsQjwa",
-      "superhero": "asd",
-      "publisher": "DC Comics",
-      "alter_ego": "asd",
-      "first_appearance": "asd",
-      "characters": "asdasd",
-      "alt_img": "https://img.freepik.com/vector-gratis/lindo-superheroe-ilustracion-icono-vector-dibujos-animados-lindo-estrella-concepto-icono-heroe-personas-aislado-vector-premium-estilo-dibujos-animados-plana_138676-4047.jpg"
-    },
-    {
-      "id": "k3uFh9v",
-      "superhero": "Superman",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Superman",
-      "first_appearance": "dc comics 1",
-      "characters": "superman",
-      "alt_img": "https://www.slashfilm.com/img/gallery/what-you-need-to-know-about-all-star-superman-one-of-the-key-comics-behind-james-gunns-dc-universe/l-intro-1677521935.jpg"
     }
   ]
 }
